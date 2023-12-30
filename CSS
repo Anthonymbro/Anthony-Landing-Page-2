@@ -9,4 +9,5 @@ h2 {
 button {
     background-color: rgb(0, 83, 139);
     color: white;
+    border:none;
 }
