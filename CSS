@@ -1,4 +1,4 @@
-header {
+-radius:5pxheader {
     background-color: orange;
 }
 
@@ -10,4 +10,5 @@ button {
     background-color: rgb(0, 83, 139);
     color: white;
     border:none;
+    border-radius: 5px;
 }
