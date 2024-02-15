@@ -1,14 +1,68 @@
--radius:5pxheader {
-    background-color: orange;
-}
-
-h2 {
-    background-color: orange;
-}
-
-button {
-    background-color: rgb(0, 83, 139);
-    color: white;
-    border:none;
+/* Header Styles */
+header {
+    background-color: #3498db; /* A shade of blue */
     border-radius: 5px;
+    color: #ecf0f1; /* Light gray text */
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    background-color: #9b59b6; /* A shade of purple */
+    border-radius: 10px;
+    color: #ecf0f1; /* Light gray text */
+    font-family: 'Arial', sans-serif; /* Specify a common font family */
+    padding: 10px;
+}
+
+/* Main Section Styles */
+main {
+    background-color: #1abc9c; /* A shade of green */
+    border: 2px solid #2ecc71; /* A slightly darker green for border */
+    color: #2c3e50; /* Dark gray text */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* Paragraph Styles */
+p {
+    background-color: #3498db; /* A shade of blue */
+    margin: 10px;
+    padding: 15px;
+    border-radius: 5px;
+    color: #ecf0f1; /* Light gray text */
+}
+
+/* Form Styles */
+form {
+    background-color: #ecf0f1; /* Light gray */
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #bdc3c7; /* Light border color */
+    border-radius: 10px;
+    color: #2c3e50; /* Dark gray text */
+}
+
+/* Button Styles */
+button {
+    background-color: #e74c3c; /* A shade of red */
+    color: #ecf0f1; /* Light gray text */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px; /* Add some padding for a comfortable button size */
+    cursor: pointer; /* Show pointer cursor on hover */
+    font-weight: bold;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #34495e; /* A shade of dark blue */
+    color: #ecf0f1; /* Light gray text */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
