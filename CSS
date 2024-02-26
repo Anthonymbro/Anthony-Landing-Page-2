@@ -62,7 +62,7 @@ footer {
     color: #ecf0f1; /* Light gray text */
     text-align: center;
     padding: 10px;
-    position: fixed;
+    position: sticky;
     bottom: 0;
     width: 100%;
 }
