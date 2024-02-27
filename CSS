@@ -16,6 +16,10 @@ h1 {
     padding: 10px;
 }
 
+h2 {
+    background-color: aqua;
+}
+
 /* Main Section Styles */
 main {
     background-color: #1abc9c; /* A shade of green */
