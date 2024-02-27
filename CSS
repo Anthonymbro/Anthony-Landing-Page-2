@@ -18,6 +18,7 @@ h1 {
 
 h2 {
     background-color: aqua;
+    border-radius:10px;
 }
 
 /* Main Section Styles */
