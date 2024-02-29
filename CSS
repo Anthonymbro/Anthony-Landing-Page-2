@@ -1,9 +1,9 @@
-/* Header Styles */    
-header {    
-    background-color: #3498db; /* A shade of blue */  
-    border-radius: 5px; 
+/* Header Styles */
+header {
+    background-color: #3498db; /* A shade of blue */
+    border-radius: 5px;
     color: #ecf0f1; /* Light gray text */
-    text-align: center; 
+    text-align: center;
     padding: 10px;
     margin-bottom: 20px;
 }
@@ -52,7 +52,7 @@ form {
 
 /* Button Styles */
 button {
-    background-color: #e74c3c; /* A shade of red */
+    background-color: #3498db; /* A shade of red */
     color: #ecf0f1; /* Light gray text */
     border: none;
     border-radius: 5px;
@@ -71,3 +71,5 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+
