@@ -2,3 +2,8 @@ function popup(){
     alert("Order confirmed");
 }
 
+function dude(){
+    console.log("If I add this in. Will it show up under the other console.log message?");
+}
+
+dude();
