@@ -72,8 +72,10 @@ footer {
     width: 100%;
 }
 
+/* Section Styles */
 section {
     background-color: #34495e;
+    color: #ffffff; /* White text color */
 }
 
 #care {
