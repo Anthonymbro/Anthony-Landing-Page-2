@@ -75,9 +75,11 @@ footer {
 /* Section Styles */
 section {
     background-color: #34495e;
+    border-radius: 5px;
     color: #ffffff; /* White text color */
 }
 
 #care {
     font-family: "fantasy";
 }
+
