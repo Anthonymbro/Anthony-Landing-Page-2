@@ -75,6 +75,7 @@ footer {
 /* Section Styles */
 section {
     background-color: #34495e;
+    border: 2px solid #bdc3c7;
     border-radius: 5px;
     color: #ffffff; /* White text color */
 }
