@@ -18,6 +18,7 @@ h1 {
 
 h2 {
     background-color: aqua;
+    border: solid white;
     border-radius:10px;
 }
 
