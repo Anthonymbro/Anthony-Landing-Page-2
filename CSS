@@ -9,7 +9,7 @@ header {
 }
 
 h1 {
-    background-color: #9b59b6; /* A shade of purple */
+    background-color: #1abc9c; /* A shade of purple */
     border-radius: 10px;
     color: #ecf0f1; /* Light gray text */
     font-family: 'Arial', sans-serif; /* Specify a common font family */
@@ -95,4 +95,3 @@ section {
 #care {
     font-family: "fantasy";
 }
-
