@@ -9,7 +9,7 @@ header {
 }
 
 h1 {
-    position: absolute;
+    position: absolute; 
     background-color: #9b59b6; /* A shade of purple */
     border-radius: 10px;
     color: #ecf0f1; /* Light gray text */
