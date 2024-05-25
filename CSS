@@ -97,3 +97,13 @@ section {
     font-family: "fantasy";
 }
 
+body {
+    background-color: blue;
+    border: 2px solid lightblue;
+    border-radius: 5px;
+    color: #ffffff
+}
+
+
+
+
